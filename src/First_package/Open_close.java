@@ -11,7 +11,7 @@ public class Open_close {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "E:\\Selenium\\New files\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.google.co.in/");
+		driver.get("https://www.google.co/");
 		driver.close();
 
 	}

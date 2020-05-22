@@ -4,11 +4,11 @@ package coreJava;
  * @author Shivanshu
  *
  */
-public class A_hello_print {
+public class Bye_print {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Shivanshu & Welcome to first program");
+		System.out.println("Bye bye BYE BYE");
 	}
 
 }
